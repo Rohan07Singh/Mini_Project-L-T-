@@ -1,4 +1,3 @@
-![Banner](https://github.com/Rohan07Singh/Mini_Project-L-T-/blob/735a80ef0fe68a6fabb5ae7a985b6cc5acbc2e5f/1_Requirements/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.gif)
 # **Take a Health Check**
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
